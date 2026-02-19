@@ -1,54 +1,95 @@
-# リンキン・パーク – More the Victim
+# SOUL'd OUT – SOUL'd OUT　『TOKYO通信 ～Urbs Communication～』
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:07.21] I've listened endlessly to your injury
-[00:09.65] You wanna talk about your sores
-[00:11.34] You wanna talk about suffering
-[00:13.08] Maybe sympathy it's all you're really hungry for
-[00:15.55] 'Cause you just criticize and you fingerpoint
-[00:17.79] And you say that they put you down
-[00:19.42] You may be victimized but you're still the one
-[00:22.18] Who won't just get up off the ground
-[00:40.18] 
-[00:23.63] I used to be as innocent as you
-[00:28.68] My excuses ran out, ran out of things to complain about
-[00:31.95] Fear will always find a way to show right through
-[00:56.45] 
-[00:38.73] You want to be more hurt than me
-[00:42.77] You want to say you're more the victim
-[00:47.07] You wanna complain and pass the blame
-[00:51.05] You want to say you're more the victim
-[01:10.05] 
-[00:56.36] You want, you-you you want, you-you you want, you-you you wanna talk constantly about misery
-[01:01.86] And how you've been done so wrong
-[01:03.75] You wanna badge your honеsty and exaggerate
-[01:05.86] All thе stress that you undergone
-[01:07.62] There's never a compromise, no one can say
-[01:09.99] That they ever been hurt before
-[01:11.63] They may be victimized, but you'll always say
-[01:14.25] That you're a victim so much more
-[01:30.75] 
-[01:16.04] I used to be as innocent as you
-[01:20.78] My excuses ran out, ran out of things to complain about
-[01:24.23] Fear will always find a way to show right through
-[01:48.73] 
-[01:30.42] You want to be more hurt than me
-[01:34.84] You want to say you're more the victim
-[01:39.00] You wanna complain and pass the blame
-[01:42.78] You want to say you're more the victim
-[02:01.78] 
-[01:48.07] You wanna be just another someone
-[01:52.52] Somebody angry, somebody broken
-[01:56.83] You wanna be that, than being all alone
-[02:16.33] 
-[02:06.82] You want to be more hurt than me
-[02:10.82] You want to say you're more the victim
-[02:15.20] You wanna complain and pass the blame
-[02:19.12] You want to say you're more the victim
-[02:23.13] You want to be more hurt than me
-[02:26.77] You want to say you're more the victim
-[02:30.85] You wanna complain and pass the blame
-[02:35.32] Pass the blame, pass the blame
+[00:27.39] つないで Tokyo 通信
+[00:28.71] This is D I'm a commander of S.O.
+[00:30.93] Α 系、people create
+[00:32.17] (あっぷあっぷ up and down で hold out)
+[00:47.67] 
+[00:35.35] Do you know that
+[00:36.22] 精密過ぎる Machine じゃ不適正 OK?
+[00:38.42] Everything is OK, here we go
+[00:39.98] 移り気なビルの影から影 gotta take good aim
+[00:44.09] 人混みをかき分け 踊る様な chase
+[00:46.30] ほら ここからじゃまだ遠いメッセージ
+[00:50.53] まるでシャレード 謎めいて
+[00:51.96] オレ 2の線3の線で忙しく play
+[00:55.26] 氷の agent と spade の ace
+[00:58.49] 黒纏ったエトランジェ 君 great
+[01:00.22] D-studs に kiss 気まぐれな iconics でいて
+[01:02.78] ハッとした瞬間 stop, stop
+[01:05.08] Stop this emotion Stop to call my name
+[01:08.77] このまま My system's error
+[01:10.43] Urbs communication レディー達でさえかかえたジレンマに
+[01:28.43] 
+[01:16.03] People
+[01:20.25] あっぷあっぷ up and down で hold out
+[01:23.27] 駆け抜けてこのときの中で
+[01:25.25] Keep an attitude to live up
+[01:28.19] あっぷあっぷ up and down で hold out
+[01:31.28] 飛び込んで情報の海を渡れ
+[01:33.93] Keep an attitude to live up
+[01:35.56] あっぷあっぷ up and down で hold out
+[01:39.30] Yes そして限界を越えもう一度
+[01:41.87] Keep an attitude to live up
+[01:44.08] あっぷあっぷ up and down で hold out
+[01:47.21] そう危ないのネ そんな事分かってるってば
+[01:51.77] (Keep an attitude to live up)
+[02:06.27] 
+[01:52.10] Giddy up, now 軌道修正で new give up 「life」
+[01:54.65] 分かるか? 然るべき犠牲払い とむらい いまそこに立つ姿は
+[01:57.94] 強く get a life たまには crack up
+[02:00.05] 時に見せる背中
+[02:00.77] 写し出す遠ざかる摩天楼ネオン I don't give a fuck yeah
+[02:03.57] コツコツ響く足音向かうsubway station そう
+[02:06.74] Atrophy to evolution 行く先は you know 無論 ground zero
+[02:09.78] Check it out, yo, let's go with us 超高速で放つ
+[02:12.87] Keep it real endless 迷いなんて無く for yourself
+[02:15.28] じきに到達NEOなお前に会いたくて
+[02:18.03] I was waiting for this time you spent enough
+[02:19.93] Long vacation are you ready to go?
+[02:21.89] Now you standing starting positon
+[02:23.26] Urbs communication 紳士達でさえかかえた pressure に
+[02:28.12] 時折ちょっと開き直ったりもしちゃうゼ
+[02:37.12] 
+[02:32.27] People
+[02:32.52] あっぷあっぷ up and down で hold out
+[02:35.36] 駆け抜けてこのときの中で
+[02:37.80] Keep an attitude to live up
+[02:39.97] あっぷあっぷ up and down で hold out
+[02:43.14] 飛び込んで情報の海を渡れ
+[02:45.86] Keep an attitude to live up
+[02:48.06] あっぷあっぷ up and down で hold out
+[02:51.31] YES そして限界を越えもう一度
+[02:53.99] Keep an attitude to live up
+[02:56.03] あっぷあっぷ up and down で hold out
+[02:59.32] そう危ないのネ そんな事分かってるってば
+[03:02.87] (Keep an attitude to live up)
+[03:17.37] 
+[03:03.92] 静けさにただ一人まだ警戒してるんだろ?
+[03:07.63] そっと頬を撫でた冷たい街の夜風
+[03:11.94] ささやかな happiness 今 感じられるのなら
+[03:15.73] 何も言わず夢だけ抱いてゆけ
+[03:35.79] Let's stand up boys and girls
+[03:37.49] いつも何かに怯えて
+[03:39.39] 必死で今の自分を守ってるだけじゃね
+[03:43.26] だから change your whole world
+[03:45.46] 震える胸 この扉を開いて新しい世界へ
+[03:56.63] So everybody, get up, live up
+[04:11.13] 
+[04:03.54] People
+[04:04.14] あっぷあっぷ up and down で hold out
+[04:07.32] 駆け抜けてこのときの中で
+[04:09.87] Keep an attitude to live up
+[04:12.18] あっぷあっぷ up and down で hold out
+[04:15.20] 飛び込んで情報の海を渡れ
+[04:17.85] Keep an attitude to live up
+[04:20.20] あっぷあっぷ up and down で hold out
+[04:23.27] YES そして限界を越えもう一度
+[04:25.86] Keep an attitude to live up
+[04:27.87] あっぷあっぷ up and down で hold out
+[04:31.37] そう危ないのネ そんな事分かってるってば
+[04:34.73] (Keep an attitude to live up)
 ```
